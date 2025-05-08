@@ -1,1 +1,1 @@
-loadstring("https://raw.githubusercontent.com/GeorgeRoblox/blackkingV2LOAD/refs/heads/main/lua?token=GHSAT0AAAAAADCQZ64AWRBNNQKBNQ53D7OI2A4OJCQ")
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/GeorgeRoblox/blackkingV2LOAD/refs/heads/main/lua?token=GHSAT0AAAAAADCQZ64AWRBNNQKBNQ53D7OI2A4OJCQ")
